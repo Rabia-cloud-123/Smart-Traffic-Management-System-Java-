@@ -13,4 +13,21 @@ Language: Java
 Concepts: Graph Algorithms, BFS, Data Structures
 Paradigm: Object-Oriented Programming (OOP)
 
+# Learning Outcomes
+Practical understanding of graph traversal algorithms
+Applying BFS in real-world inspired scenarios
+Improved Java OOP and project structuring skills
+Experience in designing algorithm-focused systems
+
+# Future Enhancements
+Integration of weighted shortest-path algorithms
+Real-time traffic simulation
+GUI or visualization layer
+Database integration for traffic data persistence
+
+# Author
+Rabia Ejaz
+Software Engineering Student 
+Balochistan University of Information Technology, Engineering and Management Sciences (BUITEMS)
+
 
