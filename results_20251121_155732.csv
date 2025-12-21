@@ -1,0 +1,8 @@
+Algorithm,Time(ms),Steps,TotalCost,PathLength,Status,Reason,TimeComplexity
+BFS,0.1203,2,3.0,2,Success,Path found,O(V+E)
+DFS,0.0509,2,3.0,2,Success,Path found,O(V+E)
+Dijkstra,0.651,3,3.0,2,Success,Path found,O((V+E)logV)
+A*,0.6725,3,3.0,2,Success,Path found,O((V+E)logV)
+Bellman-Ford,0.0345,2,3.0,2,Success,Path found,O(V×E)
+Greedy,0.0187,4,3.0,2,Success,Path found,O(E)
+Greedy,0.0208,4,3.0,2,Success,Path found,O(E)
